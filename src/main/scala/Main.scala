@@ -68,6 +68,6 @@ object Main extends App {
   }
 
   dropDB
-  Thread.sleep(10000)
+  Thread.sleep(5000)
 
 }
